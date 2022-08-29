@@ -4,7 +4,6 @@ import locationService from "../services/location-service.js";
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-
   try {
     const { lat, long } = req.query;
     const response = await locationService.getLocation(lat, long);
