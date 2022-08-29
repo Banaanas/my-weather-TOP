@@ -14,11 +14,11 @@
 /my-weather-backend-TOP/coverage
 
 # production
-/my-weather-frontend-TOP/my-weather-frontend-TOP/build
-/my-weather-frontend-TOP/my-weather-frontend-TOP/dist
+/my-weather-frontend-TOP/build
+/my-weather-frontend-TOP/dist
 
-/my-weather-backend-TOP/my-weather-frontend-TOP/build
-/my-weather-backend-TOP/my-weather-frontend-TOP/dist
+/my-weather-backend-TOP/build
+/my-weather-backend-TOP/dist
 
 # misc
 /my-weather-frontend-TOP/.DS_Store
