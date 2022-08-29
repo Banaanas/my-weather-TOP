@@ -21,23 +21,24 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![MIT License][license-shield]][license-url]
 
-
 <br/>
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
     <a href="https://my-weather.cyrilo.app/">
-        <img src="./README/project-logo.svg" alt="Project's Logo" width="120" height="120">
+        <img src="./src/images/README/project-logo.svg" alt="Project's Logo" width="120" height="120">
     </a>
 </p>
 
 <h1 align="center">❄️ My Weather ☁️</h1>
 
 <p align="center">
-    Simple, elegant and efficient Full Stack Weather Application.<br/><br/>
+    Simple, elegant and efficient Weather Application.<br/><br/>
     <a href="https://my-weather.cyrilo.app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
+- [Front-End Repository](https://github.com/Banaanas/my-weather-frontend-TOP) - 💻
+- [Back-End Repository](https://github.com/Banaanas/my-weather-backend-TOP) - 🤖
 
 <!-- TABLE OF CONTENTS -->
 
@@ -52,22 +53,22 @@
 - [License](#license)
 - [Contact](#contact)
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## About the Project
+
 Weather Application achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript Curriculum</a>.
 
 <p align="center">
   <a href="https://my-weather.cyrilo.app/">
-    <img src="./README/animated-gif-1.gif" alt="Animated Gif" width="455" height="400">
+    <img src="./src/images/README/animated-gif-1.gif" alt="Animated Gif" width="455" height="400">
   </a>
 </p>
-
 
 <!-- PRINCIPAL FEATURES -->
 
 #### Principal Features
+
 - Weather by city (autocomplete search) ;
 - Geolocation / Default Location (Paris) ;
 - Current Day : current weather, current temperature, maximum and minimum daily temperatures ;
@@ -76,24 +77,37 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 
 <p align="center">
   <a href="https://my-weather.cyrilo.app/">
-    <img src="./README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
+    <img src="./src/images/README/animated-gif-2.gif" alt="Animated Gif" width="240" height="400">
   </a>
 </p>
-
 
 <!-- BUILT WITH -->
 
 #### Built With
 
 - [Vanilla JavaScript](http://vanilla-js.com/)
+
+ES6 - Geolocation - Async / Await - Factory Functions - API (axios)
+
 - [HTML5](https://www.w3.org/html/)
 - [CSS3](https://www.w3.org/Style/CSS/Overview.html)
+
+Responsive Design - Flexbox - Media Queries
+
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [core-js](https://github.com/zloirock/core-js)
+- [ESLint](https://eslint.org/)
+- [stylelint](https://stylelint.io/)
+- [Algolia Places](https://community.algolia.com/places/documentation.html)
 - [Reverse Geocoding | Maps JavaScript API ](https://developers.google.com/maps/documentation/geocoding/intro)
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [axios](https://github.com/axios/axios)
+
+Backend
+
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/fr/)
-
 
 <!-- GETTING STARTED -->
 
@@ -106,12 +120,19 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 
 #### Installation
 
-1 - Clone the Project's repository
+1 - Clone the Project's repositories
+
+- Front End
 
 ```sh
-git clone https://github.com/Banaanas/my-weather-TOP
+git clone https://github.com/Banaanas/my-weather-frontend-TOP.git
 ```
 
+- Back End
+
+```sh
+git clone https://github.com/Banaanas/my-weather-backend-TOP.git
+```
 
 2 - Install NPM Packages / Dependencies
 
@@ -122,11 +143,13 @@ npm install
 3 - Development Server
 
 - Front End
+
 ```sh
 npm run start
 ```
 
 - Back End
+
 ```sh
 npm run dev
 ```
@@ -134,22 +157,22 @@ npm run dev
 4 - Production
 
 - Front End
+
 ```sh
 npm run build
 ```
 
 - Back End
+
 ```sh
 npm run start
 ```
-
 
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for more information.
-
 
 <!-- CONTACT -->
 
@@ -159,20 +182,18 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 [![Mail][personal-email-shield]](mailto:cyrilo.dev@gmail.com)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- PROJECT LINKS -->
 
 ## Project Links
 
-- [https://github.com/Banaanas/my-weather-TOP](https://github.com/Banaanas/my-weather-TOP) - 💻
-
+- [Front-End Repository](https://github.com/Banaanas/my-weather-frontend-TOP) - 💻
+- [Back-End Repository](https://github.com/Banaanas/my-weather-backend-TOP) - 🤖
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 

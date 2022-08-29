@@ -1,0 +1,46 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/my-weather-frontend-TOP/node_modules
+/my-weather-frontend-TOP/.pnp
+/my-weather-frontend-TOP/.pnp.js
+
+/my-weather-backend-TOP/node_modules
+/my-weather-backend-TOP/.pnp
+/my-weather-backend-TOP/.pnp.js
+
+# testing
+/my-weather-frontend-TOP/coverage
+/my-weather-backend-TOP/coverage
+
+# production
+/my-weather-frontend-TOP/my-weather-frontend-TOP/build
+/my-weather-frontend-TOP/my-weather-frontend-TOP/dist
+
+/my-weather-backend-TOP/my-weather-frontend-TOP/build
+/my-weather-backend-TOP/my-weather-frontend-TOP/dist
+
+# misc
+/my-weather-frontend-TOP/.DS_Store
+/my-weather-frontend-TOP/.env
+/my-weather-frontend-TOP/.env.local
+/my-weather-frontend-TOP/.env.development.local
+/my-weather-frontend-TOP/.env.test.local
+/my-weather-frontend-TOP/.env.production.local
+
+/my-weather-backend-TOP/.DS_Store
+/my-weather-backend-TOP/.env
+/my-weather-backend-TOP/.env.local
+/my-weather-backend-TOP/.env.development.local
+/my-weather-backend-TOP/.env.test.local
+/my-weather-backend-TOP/.env.production.local
+
+/my-weather-frontend-TOP/npm-debug.log*
+/my-weather-frontend-TOP/yarn-debug.log*
+/my-weather-frontend-TOP/yarn-error.log*
+/my-weather-frontend-TOP/package-lock.json
+
+/my-weather-backend-TOP/npm-debug.log*
+/my-weather-backend-TOP/yarn-debug.log*
+/my-weather-backend-TOP/yarn-error.log*
+/my-weather-backend-TOP/package-lock.json
