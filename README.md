@@ -85,9 +85,9 @@ Weather Application achieved as part of <a href="https://www.theodinproject.com/
 
 #### Built With
 
-- [Vanilla JavaScript](http://vanilla-js.com/)
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3.org/Style/CSS/Overview.html)
+- [JavaScript](http://vanilla-js.com/)
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://www.w3.org/Style/CSS/Overview.html)
 - [Reverse Geocoding | Maps JavaScript API ](https://developers.google.com/maps/documentation/geocoding/intro)
 - [OpenWeatherMap](https://openweathermap.org/api)
 - [axios](https://github.com/axios/axios)
